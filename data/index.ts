@@ -72,132 +72,74 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Quiz App",
+    des: " I developed Quiz App, an interactive platform offering an engaging learning experience. Key features include:- Diverse Topics: Choose from various quiz topics.- Adjustable Levels: Customize your difficulty levels.- Responsive UI: Optimized for all devices.- Analysis and Feedback: Instant feedback and progress tracking.- This project highlights my skills in creating user-friendly and functional web applications. Explore how I can help you build creative web solutions! Visit: https://quiz-app-roan-tau-43.vercel.app",
+    img: "/quiz.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://quiz-app-roan-tau-43.vercel.app",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Travel - Tour To Tuscany",
+    des: "I have meticulously crafted a comprehensive UI/UX design in Figma, featuring an intuitive and visually appealing design. This design has been expertly converted into a functional website using Next.js and Tailwind CSS, ensuring a responsive, fast-loading, and aesthetically pleasing user interface. In addition to the frontend development, we have also integrated various APIs to enhance the website's functionality and provide a dynamic user experience.",
+    img: "/travel.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: "Shopping Hub",
+    des: "I have build and deploy Shopping-hub web app. a web app with e-commerce features such as cart pages, product categories, etc. The technology stack that I use is React JS, Tailwind CSS, Redux Toolkit.",
+    img: "/shopping.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "/shopping-hub-tau.vercel.app",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "TvFlix",
+    des: "I have successfully build web app with name TvFlix. i make this web application using Next.js and Tailwind CSS. you can visit this website on https://tvflix-cxunk7197-fahmi-aksan-nugrohos-projects.vercel.app. TvFlix is designed to show information about the film which has been release, like whats the film name, who director, who the actors and aktris, Apart from that, the film releases are also displayed there . With Next.js, I ensured a fast and responsive user experience, enabling seamless navigation and efficient content management.",
+    img: "/tvflix.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://tvflix-cxunk7197-fahmi-aksan-nugrohos-projects.vercel.app/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Fahmi was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Fahmi enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Fahmi is the ideal partner.",
+    name: "Arslan M",
+    title: "Client Freelance",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "The best freelancer I’ve worked with! Fahmi delivered on time and with exceptional quality. Our website now runs smoother and looks better than ever.",
+    name: "Aaliyahb4",
+    title: "Client Freelance",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Fahmi did an outstanding job creating our company's profile website. His attention to detail and commitment to delivering a user-friendly, responsive, and functional site was impressive. We couldn't be happier with the results.",
+    name: "Fadhil",
+    title: "Founder Cipta Kencana",
   },
 ];
 
-export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
-];
 
 export const workExperience = [
   {
-    id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
-    className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
-  },
-  {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Wordpress Developer",
+    desc: "Developed and maintained the company profile website using WordPress, ensuring it was user-friendly, responsive, and functional.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Web Dev Project",
+    desc: "Builded a web app for a client, from initial concept to deployment.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/exp1.svg",
   },
 ];
 
@@ -205,13 +147,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/fahmiaksan"
   },
   {
     id: 2,
     img: "/twit.svg",
+    url: "https://x.com/fhmiaksn?t=pyIBaLq3iOTT8X-ua8KBiw&s=09",
   },
   {
     id: 3,
     img: "/link.svg",
+    url: "https://www.linkedin.com/in/fahmi-aksan-nugroho-090b452a2"
   },
 ];
