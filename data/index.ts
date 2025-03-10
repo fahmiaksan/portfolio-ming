@@ -95,13 +95,22 @@ export const projects = [
     link: "/shopping-hub-tau.vercel.app",
   },
   {
-    id: 4,
-    title: "TvFlix",
-    des: "I have successfully build web app with name TvFlix. i make this web application using Next.js and Tailwind CSS. you can visit this website on https://tvflix-cxunk7197-fahmi-aksan-nugrohos-projects.vercel.app. TvFlix is designed to show information about the film which has been release, like whats the film name, who director, who the actors and aktris, Apart from that, the film releases are also displayed there . With Next.js, I ensured a fast and responsive user experience, enabling seamless navigation and efficient content management.",
-    img: "/tvflix.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://tvflix-cxunk7197-fahmi-aksan-nugrohos-projects.vercel.app/",
-  },
+    id: 5,
+    title: "Bukadigital Website",
+    des: "During my internship as an IT Team member at Bukadigital Indonesia, I was responsible for managing and optimizing their website, which is built using WordPress. My tasks included customizing themes, optimizing website performance, and ensuring a smooth user experience. Additionally, I implemented new features, improved SEO, and collaborated with the team to troubleshoot technical issues. This experience helped me gain deeper insights into WordPress development and website management in a real business environment.",
+    img: "/bukadigital.png",
+    iconLists: ["/wordpress.svg", "/php.svg", "/mysql.svg"],
+    link: "https://bukadigital.id/"
+},{
+    id: 6,
+    title: "Botaniseed Website",
+    des: "I contributed to the development of the Botaniseed IPB website, a platform dedicated to promoting and selling high-quality agricultural seeds. Built using WordPress, the website features a well-structured product catalog, seamless user navigation, and an optimized checkout experience. My role involved customizing the theme, enhancing website performance, and ensuring mobile responsiveness. Additionally, I worked on improving SEO to increase online visibility and reach a wider audience.",
+    img: "/botani-seed.png",
+    iconLists: ["/wordpress.svg", "/php.svg", "/mysql.svg"],
+    link: "https://botaniseedipb.com/"
+}
+
+
 ];
 
 export const testimonials = [
