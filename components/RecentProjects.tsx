@@ -30,16 +30,17 @@ const RecentProjects = () => {
                   style={{ backgroundColor: "#13162D" }}
                 >
                   <Image
-                  width={500}
-                  height={500}
-                  src="/bg.png" alt="bgimg" />
+                    width={500}
+                    height={500}
+                    src="/bg.png" alt="bgimg" />
                 </div>
                 <Image
-                width={500}
-                height={500}
+                  width={500}
+                  height={500}
                   src={item.img}
                   alt="cover"
-                  className="z-10 absolute bottom-0"
+                  className="z-10 absolute top-0 left-1/2 -translate-x-1/2"
+                  style={{ objectFit: "contain", objectPosition: "top center" }}
                 />
               </div>
 

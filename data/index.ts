@@ -3,6 +3,7 @@ export const navItems = [
   { name: "Projects", link: "#projects" },
   { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
+  { name: "CV", link: "/resume.docx" },
 ];
 
 export const gridItems = [
@@ -108,8 +109,15 @@ export const projects = [
     img: "/botani-seed.png",
     iconLists: ["/wordpress.svg", "/php.svg", "/mysql.svg"],
     link: "https://botaniseedipb.com/"
-}
-
+},
+{
+    id: 7,
+    title: "Web Topup Game Online",
+    des: "A modern website for topping up various online games quickly, easily, and securely. Supports multiple payment methods and features a responsive, user-friendly interface.",
+    img: "/topup.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "",
+  }
 
 ];
 
